@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # women_safety_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Women-Safety-Alert-System
+A Flutter-based women safety app featuring SOS alerts, trusted contacts, safety timer, fake call assistance, and emergency support tools.
+>>>>>>> e5cb02a973472a539e4611adc32d720ec43c3b6e
